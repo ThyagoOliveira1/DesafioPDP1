@@ -1,0 +1,10 @@
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\obj\Debug\ContadorMoedas.csprojAssemblyReference.cache
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\obj\Debug\ContadorMoedas.Form1.resources
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\obj\Debug\ContadorMoedas.Properties.Resources.resources
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\obj\Debug\ContadorMoedas.csproj.GenerateResource.cache
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\obj\Debug\ContadorMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\bin\Debug\ContadorMoedas.exe.config
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\bin\Debug\ContadorMoedas.exe
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\bin\Debug\ContadorMoedas.pdb
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\obj\Debug\ContadorMoedas.exe
+C:\Users\Thyago\Source\Repos\ContadorMoedas\ContadorMoedas\obj\Debug\ContadorMoedas.pdb
